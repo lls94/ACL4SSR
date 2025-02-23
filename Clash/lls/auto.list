@@ -1,3 +1,6 @@
 DOMAIN-SUFFIX,pbs.twimg.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,pages.dev
